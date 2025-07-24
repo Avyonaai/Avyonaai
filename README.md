@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Avyonaai
+- 👋 Hi, I’m Ashish Chandrans.
 - 👀 I’m interested in building Ai's.
 - 🌱 I’m currently learning about Computer science engineering.
 - 💞️ I’m looking to collaborate to modern tech investors.
